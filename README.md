@@ -17,6 +17,7 @@ O objetivo é aumentar a **transparência**, a **agilidade na manutenção urban
 
 ---
 
+
 ## 🧱 Arquitetura do Sistema
 
 A solução foi modelada utilizando o **Modelo C4** com separação em múltiplos containers:
